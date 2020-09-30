@@ -1,2 +1,2 @@
-__teste___
+__teste__
 `teste`
